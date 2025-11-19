@@ -1,0 +1,995 @@
+SE_NAME,SE_ONTOLOGY
+abdominal discomfort,07.01.06.001
+abdominal distension,07.01.04.001
+abdominal pain,07.01.05.002
+abdominal pain lower,07.01.05.010
+abdominal pain upper,07.01.05.003
+abnormal behaviour,19.01.01.001
+abnormal dreams,17.15.02.001|19.02.03.001
+abnormal faeces,07.01.03.001
+abscess,11.01.08.001
+accommodation disorder,06.02.04.001
+acidosis,14.01.03.002
+acne,23.02.01.001
+actinic keratosis,23.01.06.001
+acute coronary syndrome,02.02.02.015|24.04.04.011
+acute myocardial infarction,02.02.02.001|24.04.04.001
+acute respiratory distress syndrome,22.01.03.001
+adrenal insufficiency,05.01.02.001|14.11.01.004
+affect lability,19.04.01.001
+affective disorder,19.04.04.001
+ageusia,07.14.03.003|17.02.07.001
+aggression,19.05.01.001
+agitation,17.02.05.012|19.06.02.001
+agranulocytosis,01.02.03.001
+akathisia,17.01.02.002|19.06.02.006
+akinesia,17.01.02.003
+alanine aminotransferase increased,13.03.01.003
+albuminuria,20.02.01.001
+alcohol intolerance,14.02.01.001
+alopecia,23.02.02.001
+altered state of consciousness,17.02.04.001|19.07.01.003
+alveolitis allergic,10.01.03.008|22.01.01.002
+amblyopia,06.02.01.001
+amenorrhoea,05.05.01.002|21.01.02.001
+amnesia,17.03.02.001|19.20.01.001
+amylase increased,13.05.01.009
+anaemia,01.03.02.001
+anaemia macrocytic,01.03.02.002|14.12.01.002
+anaemia megaloblastic,01.03.02.003|14.12.01.003
+anal pruritus,07.03.03.002
+anaphylactic shock,10.01.07.002|24.06.02.004
+anaphylactoid reaction,10.01.07.003|24.06.03.007
+aneurysm,24.02.01.001
+anger,19.04.02.001
+angina pectoris,02.02.02.002|24.04.04.002
+angioedema,10.01.05.009|23.04.01.001
+angiopathy,24.03.02.007
+angle closure glaucoma,06.03.01.001
+anorectal discomfort,07.03.03.003
+anorectal disorder,07.03.01.001
+anorgasmia,19.08.01.001
+antisocial behaviour,19.05.01.010
+antisocial personality disorder,19.05.03.002
+anuria,20.01.03.002
+anxiety,19.06.02.002
+apathy,19.04.04.002
+aphasia,17.02.03.001|19.21.01.001
+aplasia pure red cell,01.03.03.001|10.02.01.003
+aplastic anaemia,01.03.03.002
+apnoea,22.02.01.001
+appendicitis,07.19.01.001|11.01.07.001
+application site burn,08.02.01.038|12.07.01.038|23.03.11.013
+application site dryness,08.02.01.011|12.07.01.011|23.03.03.024
+application site erythema,08.02.01.001|12.07.01.001|23.03.06.005
+application site irritation,08.02.01.003|12.07.01.003
+application site pain,08.02.01.004|12.07.01.004
+application site paraesthesia,08.02.01.026|12.07.01.026|17.02.06.012
+application site pruritus,08.02.01.005|12.07.01.005|23.03.12.004
+application site rash,08.02.01.016|12.07.01.016|23.03.13.008
+application site reaction,08.02.01.006|12.07.01.006
+application site vesicles,08.02.01.009|12.07.01.009|23.03.01.009
+apraxia,17.02.03.002|19.21.01.002
+arrhythmia,02.03.02.001
+arrhythmia supraventricular,02.03.03.001
+arteriosclerosis,24.04.02.001
+arthralgia,15.01.02.001
+arthritis,15.01.01.001
+arthropathy,15.01.01.003
+ascites,02.05.04.002|07.07.01.001|09.01.05.003
+asocial behaviour,19.05.01.011
+aspartate aminotransferase increased,13.03.01.006
+asthenia,08.01.01.001
+asthenopia,06.01.01.002
+asthma,10.01.03.010|22.03.01.002
+ataxia,08.01.02.004|17.02.02.001
+atelectasis,22.01.02.001
+atrial fibrillation,02.03.03.002
+atrial flutter,02.03.03.003
+atrioventricular block,02.03.01.002
+atrioventricular block complete,02.03.01.003
+atrioventricular block first degree,02.03.01.004
+autonomic nervous system imbalance,08.01.01.010|17.05.01.011|24.06.01.005
+azotaemia,20.01.01.001
+back pain,15.03.04.005
+bacteraemia,11.01.11.001
+bacterial infection,11.02.01.005
+balance disorder,17.02.02.007
+basal cell carcinoma,16.03.02.001|23.08.02.001
+benign neoplasm of skin,16.26.01.006|23.10.01.006
+biliary colic,09.02.01.001
+bipolar disorder,19.16.01.003
+bipolar i disorder,19.16.01.002
+bladder cancer,16.08.01.001|20.03.04.001
+bladder pain,20.02.02.001
+bleeding time prolonged,13.01.02.002
+blepharitis,06.04.04.001|23.03.04.012
+blepharospasm,06.05.01.001|17.17.02.001
+blindness,06.02.02.001|17.17.01.003
+blister,12.01.06.002|23.03.01.001
+blood albumin decreased,13.09.01.001
+blood alkaline phosphatase increased,13.04.02.004
+blood bilirubin increased,13.03.01.008
+blood calcium decreased,13.11.01.002
+blood cholesterol increased,13.12.01.002
+blood creatine phosphokinase increased,13.04.01.001
+blood creatinine increased,13.13.01.004
+blood disorder,01.05.01.004
+blood glucose decreased,13.02.02.001
+blood glucose increased,13.02.02.002
+blood lactate dehydrogenase increased,13.04.02.002
+blood phosphorus decreased,13.11.01.015
+blood potassium decreased,13.11.01.010
+blood potassium increased,13.11.01.011
+blood pressure increased,13.14.03.005
+blood prolactin increased,13.10.03.002
+blood triglycerides increased,13.12.03.001
+blood urea increased,13.13.01.006
+blood uric acid increased,13.02.04.001
+blood urine present,13.13.02.002
+body temperature decreased,13.15.01.010
+body temperature increased,13.15.01.001
+bone disorder,15.02.04.004
+bone pain,15.02.01.001
+bradycardia,02.03.02.002
+bradykinesia,17.01.02.004
+brain oedema,12.01.10.010|17.07.02.003
+breast cancer,16.10.01.001|21.05.01.003
+breast discharge,21.05.05.001
+breast disorder,21.05.04.004
+breast engorgement,18.08.02.001|21.05.05.002
+breast enlargement,21.05.04.001
+breast neoplasm,16.10.02.001|21.05.01.004
+breast pain,21.05.05.003
+breast tenderness,21.05.05.004
+breath odour,07.01.06.002
+breath sounds abnormal,13.15.01.008
+bronchial hyperreactivity,22.03.01.016
+bronchitis,11.01.09.001|22.07.01.001
+bronchospasm,10.01.03.012|22.03.01.004
+bronchospasm paradoxical,22.03.01.006
+bruxism,07.01.06.008|19.11.03.001
+bundle branch block,02.03.01.009
+burning sensation,08.01.09.029|17.02.06.001
+bursitis,15.04.01.001
+cachexia,08.01.01.009|14.03.02.001|16.32.03.011
+candida infection,11.03.03.021
+cardiac arrest,02.03.04.001
+cardiac disorder,02.01.01.003
+cardiac failure,02.05.01.001
+cardiac failure congestive,02.05.01.002
+cardiac flutter,02.03.02.012
+cardiac murmur,13.14.01.001
+cardiac output decreased,13.14.02.001
+cardiogenic shock,02.05.01.003|24.06.02.006
+cardiomegaly,02.04.02.001
+cardiomyopathy,02.04.01.001
+cardiovascular disorder,02.01.01.001|24.03.02.009
+carpal tunnel syndrome,17.09.02.001
+cataract,06.06.01.001
+catheter site pain,08.02.02.004|12.07.02.004
+cellulitis,11.02.01.001|23.09.01.001
+cerebellar syndrome,17.02.02.002
+cerebral haemorrhage,17.08.01.003|24.07.04.001
+cerebral infarction,17.08.01.004|24.04.06.002
+cerebral ischaemia,17.08.01.005|24.04.06.003
+cerebrovascular accident,17.08.01.007|24.03.05.001
+cerebrovascular disorder,17.08.02.002|24.03.05.002
+cervix disorder,21.06.01.003
+change of bowel habit,07.02.03.002
+cheilitis,07.05.01.001|23.03.03.025
+chest discomfort,02.02.02.009|08.01.08.019|22.02.08.001
+chest pain,02.02.02.011|08.01.08.002|22.02.08.003
+chills,08.01.09.001|15.05.03.016
+cholecystitis,09.03.01.001
+cholelithiasis,09.03.01.002
+cholestasis,09.01.01.001
+choreoathetosis,17.01.01.003
+chromatopsia,06.02.05.001
+chromaturia,20.02.01.002
+chronic obstructive pulmonary disease,22.03.01.007
+clostridium difficile colitis,07.19.01.004|11.02.02.004
+coagulopathy,01.01.02.001
+cognitive disorder,17.03.03.003|19.21.02.001
+cold sweat,08.01.03.024|23.02.03.002
+colitis,07.08.01.001
+colitis ischaemic,07.08.01.004|24.04.08.012
+colitis ulcerative,07.08.01.005|10.02.01.004
+coma,17.02.09.001
+completed suicide,08.04.01.010|19.12.01.001
+conduction disorder,02.03.01.008
+confusional state,17.02.03.005|19.13.01.001
+congenital eye disorder,03.01.01.002|06.08.03.011
+conjunctival haemorrhage,06.07.01.001|24.07.05.001
+conjunctival hyperaemia,06.04.01.004
+conjunctival oedema,06.04.01.001
+conjunctivitis,06.04.01.002|11.01.06.012
+conjunctivitis allergic,06.04.01.003|10.01.04.002
+connective tissue disorder,15.06.01.006
+constipation,07.02.02.001
+contusion,12.01.06.001|15.03.01.008|23.03.11.002|24.07.06.001
+conversion disorder,19.24.01.001
+coordination abnormal,17.02.02.004
+corneal erosion,06.06.03.003
+corneal lesion,06.06.03.004
+corneal opacity,06.06.03.005
+coronary artery disease,02.02.01.001|24.04.04.006
+cough,22.02.03.001
+crohn's disease,07.08.01.015|10.02.01.005
+crying,08.01.03.005|12.02.11.001|17.02.05.013|19.04.02.002
+cushing's syndrome,05.01.01.001|14.11.01.007|19.07.03.002|24.08.04.001
+cyanosis,02.01.02.002|22.02.02.007|24.03.01.007
+cyst,08.03.05.001|16.02.02.002
+cystitis,11.01.14.001|20.03.02.002
+cystitis haemorrhagic,20.03.02.003
+cystitis noninfective,20.03.02.001
+deafness,04.02.01.001
+decreased appetite,08.01.09.028|14.03.01.005
+deep vein thrombosis,24.01.02.003
+dehydration,14.05.05.001
+delirium,19.13.02.001
+delusion,19.10.01.001
+dementia,17.03.01.001|19.20.02.001
+dental caries,07.09.01.001
+depressed level of consciousness,17.02.04.002
+depressed mood,19.15.02.001
+depression,19.15.01.001
+derealisation,19.10.02.001
+dermatitis,23.03.04.002
+dermatitis acneiform,23.02.01.004
+dermatitis atopic,10.01.04.004|23.03.04.016
+dermatitis bullous,23.03.01.002
+dermatitis contact,10.01.01.003|12.03.01.040|23.03.04.004
+dermatitis exfoliative,10.01.01.004|23.03.07.001
+diabetes mellitus,05.06.01.001|14.06.01.001
+diarrhoea,07.02.01.001
+diarrhoea haemorrhagic,07.02.01.002|24.07.02.004
+diplopia,06.02.06.002|17.17.01.005
+discomfort,08.01.08.003
+disorientation,17.02.05.015|19.13.01.002
+disseminated intravascular coagulation,01.01.02.002|24.01.01.010
+disturbance in attention,17.03.03.001|19.21.02.002
+disturbance in sexual arousal,19.08.04.003
+diverticulitis,07.10.02.001|11.01.07.003
+dizziness,02.01.02.004|17.02.05.003|24.06.02.007
+dizziness postural,02.01.02.005|17.02.05.004|24.06.02.008
+drug eruption,08.01.06.015|10.01.01.005|23.03.05.001
+drug hypersensitivity,10.01.01.001
+drug ineffective,08.06.01.006
+dry eye,06.08.02.001
+dry mouth,07.06.01.002
+dry skin,23.03.03.001
+dry throat,07.06.01.005|22.02.05.004
+duodenal ulcer,07.04.02.002
+duodenitis,07.08.03.001
+dysaesthesia,17.02.06.003
+dysarthria,17.02.08.001|19.19.03.001
+dysgeusia,07.14.03.001|17.02.07.003
+dyskinesia,17.01.02.006
+dysmenorrhoea,21.01.01.002
+dyspareunia,19.08.05.004|21.03.02.016
+dyspepsia,07.01.02.001
+dysphagia,07.01.06.003
+dysphonia,17.02.08.004|19.19.03.002|22.02.05.005
+dysphoria,19.04.02.004
+dyspnoea,02.01.03.002|22.02.01.004
+dyspnoea exertional,02.01.03.003|22.02.01.005
+dysuria,20.02.02.002
+ear disorder,04.03.01.001
+ear infection,04.03.01.006|11.01.05.001
+ear pain,04.03.01.003
+ecchymosis,01.01.03.001|23.06.01.001|24.07.06.002
+eczema,23.03.04.006
+ejaculation delayed,21.03.01.001
+ejaculation disorder,21.03.01.002
+ejaculation failure,21.03.01.003
+electrocardiogram abnormal,13.14.05.001
+electrocardiogram qt prolonged,13.14.05.004
+electrocardiogram st segment depression,13.14.05.005
+electroencephalogram abnormal,13.07.03.001
+electrolyte imbalance,14.05.01.002
+embolism,24.01.01.009
+embolism venous,24.01.01.003
+emotional disorder,19.04.02.005
+emphysema,22.01.02.002
+encephalopathy,17.13.02.001
+endocrine disorder,05.09.01.001
+endometrial disorder,21.07.01.001
+endophthalmitis,06.04.05.009|11.01.06.003
+enteritis,07.08.03.002
+enterocolitis,07.08.03.003
+enuresis,19.07.04.001|20.02.02.003
+eosinophilia,01.02.04.001
+epididymitis,11.01.19.005|21.09.02.001
+epigastric discomfort,07.01.02.004
+epistaxis,22.04.03.001|24.07.01.005
+erectile dysfunction,19.08.04.001|21.03.01.007
+eructation,07.01.02.003
+erythema,23.03.06.001
+erythema multiforme,10.01.03.015|23.03.01.003
+erythema nodosum,10.02.01.020|23.07.02.001
+erythema of eyelid,06.04.04.003|23.03.06.006
+euphoric mood,19.04.02.006
+excoriation,12.01.06.007|23.03.11.003
+exophthalmos,05.02.02.002|06.09.04.001
+exostosis,15.02.04.005
+extrapyramidal disorder,17.01.02.007
+extrasystoles,02.03.02.003
+extravasation,08.01.03.008
+eye discharge,06.04.05.001
+eye disorder,06.08.03.001
+eye haemorrhage,06.07.02.001|24.07.05.002
+eye infection,06.04.05.007|11.01.06.001
+eye irritation,06.04.05.003
+eye oedema,06.08.03.013
+eye pain,06.08.03.002
+eye pruritus,06.04.05.006
+eye swelling,06.08.03.003
+eyelid oedema,06.04.04.004|10.01.05.001|23.04.01.003
+face oedema,08.01.07.003|10.01.05.002|23.04.01.004
+faecalith,07.01.03.007
+faecaloma,07.01.03.004
+faeces discoloured,07.01.03.002
+fasting,26.01.02.001
+fatigue,08.01.01.002
+febrile neutropenia,01.02.03.002|08.05.02.004
+feeling abnormal,08.01.09.014
+feeling cold,08.01.09.008
+feeling drunk,08.01.09.015
+feeling hot,08.01.09.009
+feeling jittery,08.01.09.016
+fibrocystic breast disease,16.14.01.003|21.05.01.002
+flank pain,08.01.08.007|15.03.04.003|20.02.03.006
+flat affect,19.04.01.004
+flatulence,07.01.04.002
+fluid overload,02.05.04.004|14.05.06.001
+fluid retention,14.05.06.002|20.01.02.003
+flushing,08.01.03.025|23.06.05.003|24.03.01.002
+foetor hepaticus,07.01.06.026|09.01.05.006
+folliculitis,11.01.12.018|23.09.04.007
+fracture,12.04.02.001|15.08.02.001
+functional gastrointestinal disorder,07.11.01.016
+fungal infection,11.03.05.001
+fungal skin infection,11.03.05.002|23.09.02.001
+furuncle,11.02.05.008|23.09.01.004
+gait disturbance,08.01.02.002|17.02.05.016
+galactorrhoea,05.03.04.002|21.05.02.002
+gamma-glutamyltransferase increased,13.03.01.011
+gangrene,11.02.01.003|23.06.06.001|24.04.05.003
+gastric ulcer,07.04.03.002
+gastritis,07.08.02.001
+gastroenteritis,07.19.03.001|11.01.07.004
+gastrointestinal carcinoma,07.21.03.001|16.13.04.001
+gastrointestinal disorder,07.11.01.001
+gastrointestinal haemorrhage,07.12.02.001|24.07.02.009
+gastrointestinal infection,07.19.02.005|11.01.07.012
+gastrointestinal pain,07.01.05.005
+gastrointestinal perforation,07.04.04.001
+gastrointestinal ulcer,07.04.04.002
+gastrooesophageal reflux disease,07.02.02.003
+generalised oedema,08.01.07.004|14.05.06.007
+genital candidiasis,11.03.03.002|21.10.03.001
+gingival bleeding,07.09.07.001|24.07.02.010
+gingival pain,07.09.04.001
+gingivitis,07.09.03.003|11.01.04.013
+glaucoma,06.03.01.002
+glossitis,07.14.01.001
+glossodynia,07.14.02.001
+glucose tolerance impaired,05.06.02.001|14.06.02.001
+glycosuria,20.02.01.005
+goitre,05.02.01.001|14.11.01.008
+gout,14.09.01.001|15.01.06.001
+gravitational oedema,02.05.04.014|08.01.07.005
+gynaecomastia,05.05.02.003|21.05.04.003
+haematemesis,07.12.02.002|24.07.02.011
+haematochezia,07.12.02.003|24.07.02.012
+haematocrit decreased,13.01.05.001
+haematoma,24.07.01.001
+haematuria,20.02.01.006|24.07.01.047
+haemoglobin,13.01.05.018
+haemoglobin decreased,13.01.05.003
+haemolytic anaemia,01.06.03.002
+haemolytic uraemic syndrome,01.06.02.001|20.01.03.011
+haemoptysis,02.01.02.006|22.02.03.004|24.07.01.006
+haemorrhage,24.07.01.002
+haemorrhage intracranial,17.08.01.008|24.07.04.003
+haemorrhagic disorder,01.01.03.004|24.07.01.021
+haemorrhoids,07.15.03.001|24.10.02.002
+hair colour changes,23.02.06.001
+hair disorder,23.02.06.003
+hair texture abnormal,23.02.06.004
+hallucination,19.10.02.002
+hangover,08.01.09.018
+headache,17.14.01.001
+hemiplegia,17.01.04.002
+hepatic cancer,09.04.02.008|16.07.02.004
+hepatic enzyme increased,13.03.01.019
+hepatic failure,09.01.03.002
+hepatic function abnormal,09.01.02.001
+hepatic necrosis,09.01.07.002
+hepatic steatosis,09.01.07.003|14.08.04.005
+hepatitis,09.01.07.004
+hepatitis cholestatic,09.01.01.002
+hepatobiliary disease,09.01.08.003
+hepatocellular injury,09.01.07.008
+hepatomegaly,09.01.05.001
+hepatotoxicity,09.01.07.009|12.03.01.008
+hernia,08.01.04.001
+herpes simplex,11.05.02.001|23.09.03.001
+herpes virus infection,11.05.02.008
+herpes zoster,11.05.02.003|23.09.03.002
+hiatus hernia,07.16.01.001|22.09.02.004
+hiccups,07.01.06.009|22.02.04.002
+hirsutism,05.05.01.005|23.02.04.001
+hostility,19.05.01.003
+hot flush,08.01.03.027|21.02.02.001|24.03.01.005
+hyperacusis,04.02.02.001|17.04.03.003
+hyperaemia,24.03.02.002
+hyperaesthesia,17.02.06.004
+hyperbilirubinaemia,01.06.04.003|09.01.01.003|14.11.01.010
+hypercalcaemia,05.04.01.002|14.04.01.003
+hypercalciuria,05.04.01.003|14.04.01.006|20.02.01.007
+hypercholesterolaemia,14.08.01.001
+hyperglycaemia,05.06.02.002|14.06.02.002
+hyperhidrosis,08.01.03.028|23.02.03.004
+hyperkalaemia,14.05.03.001
+hyperkeratosis,23.01.01.001
+hyperkinesia,17.01.02.008
+hyperlactacidaemia,14.01.01.006
+hyperlipidaemia,14.08.03.001
+hypermagnesaemia,14.04.02.002
+hypernatraemia,14.05.04.001
+hyperpathia,17.02.07.015
+hyperphosphataemia,14.04.03.007
+hyperreflexia,17.02.01.002
+hypersensitivity,10.01.03.003
+hypersomnia,17.15.01.001|19.02.05.001
+hypertension,24.08.02.001
+hyperthyroidism,05.02.02.001|14.11.01.011
+hypertonia,15.05.04.007|17.05.02.001
+hypertrichosis,23.02.04.002
+hypertriglyceridaemia,14.08.02.001
+hyperuricaemia,14.09.01.003
+hyperventilation,19.01.02.004|22.02.01.006
+hypoaesthesia,17.02.06.023
+hypoaesthesia oral,07.05.05.003|17.02.06.021
+hypoalbuminaemia,09.01.02.003|14.10.01.002
+hypocalcaemia,14.04.01.004
+hypochloraemia,14.05.08.003
+hypochromic anaemia,01.03.02.004
+hypoglycaemia,05.06.03.001|14.06.03.001
+hypohidrosis,08.01.03.029|23.02.03.005
+hypokalaemia,14.05.03.002
+hypokinesia,17.01.02.009
+hypomagnesaemia,14.04.02.001
+hypomania,19.16.02.001
+hyponatraemia,14.05.04.002
+hypophosphataemia,14.04.03.001
+hypoproteinaemia,09.01.02.004|14.10.01.003
+hyporeflexia,17.02.01.003
+hypotension,24.06.03.002
+hypothermia,08.05.01.003|12.05.03.001
+hypothyroidism,05.02.03.001|14.11.01.012
+hypotonia,15.05.04.008|17.05.02.002
+hypoventilation,22.02.01.007
+hypoxia,22.02.02.003
+ileus,07.13.01.001
+ileus paralytic,07.02.05.001
+ill-defined disorder,08.01.03.049
+immune system disorder,10.02.01.001
+impaired gastric emptying,07.02.02.004
+impaired healing,08.03.02.001
+impetigo,11.01.12.006|23.09.01.006
+inappropriate antidiuretic hormone secretion,05.03.03.001|14.05.07.001
+incontinence,07.01.06.011|17.05.01.006|20.02.02.004
+increased appetite,08.01.09.027|14.03.01.003
+increased bronchial secretion,22.02.04.007
+increased tendency to bruise,01.01.03.005|23.06.01.009|24.07.06.012
+induration,08.01.03.020
+infarction,24.04.02.017
+infection,11.01.08.002
+infestation,11.09.01.001|23.09.05.001
+inflammation,08.01.05.007
+influenza,11.05.03.001|22.07.02.001
+influenza like illness,08.01.03.010
+infusion site pain,08.02.05.014|12.07.05.002
+infusion site reaction,08.02.05.005|12.07.05.006
+injection site bruising,08.02.03.042|12.07.03.042|23.03.11.015|24.07.06.017
+injection site erythema,08.02.03.001|12.07.03.001|23.03.06.015
+injection site haemorrhage,08.02.03.005|12.07.03.005|24.07.01.010
+injection site induration,08.02.03.007|12.07.03.007
+injection site inflammation,08.02.03.008|12.07.03.009
+injection site pain,08.02.03.010|12.07.03.011
+injection site pruritus,08.02.03.013|12.07.03.014|23.03.12.007
+injection site reaction,08.02.03.014|12.07.03.015
+injection site swelling,08.02.03.017|12.07.03.018
+injury,12.01.08.004
+insomnia,17.15.03.002|19.02.01.002
+instillation site pain,08.02.01.008|12.07.01.008
+intermittent claudication,24.04.03.001
+international normalised ratio increased,13.01.02.008
+interstitial lung disease,10.02.01.033|22.01.02.003
+intestinal obstruction,07.13.01.002
+intestinal perforation,07.04.06.002
+intracranial pressure increased,17.07.02.002
+intraocular pressure increased,13.07.04.002
+iritis,06.04.03.002|10.02.01.022
+iron deficiency anaemia,01.03.01.002|14.13.02.001
+irritability,08.01.03.011|19.04.02.013
+irritable bowel syndrome,07.02.04.003|19.24.01.003
+ischaemia,24.04.02.004
+jaundice,01.06.04.004|09.01.01.004|23.03.03.030
+jaundice cholestatic,09.01.01.005
+joint stiffness,15.01.02.003
+joint swelling,15.01.02.004
+keratitis,06.04.02.002
+ketosis,14.01.01.001
+laboratory test abnormal,13.18.01.001
+labyrinthitis,04.04.03.001|11.01.05.002
+laceration,12.01.06.006|23.03.11.004
+lacrimal disorder,06.08.02.005
+lacrimal structural disorder,06.06.04.013
+lacrimation increased,06.08.02.004
+lactic acidosis,14.01.01.002
+laryngeal oedema,10.01.05.003|22.04.02.001|23.04.01.005
+laryngeal pain,22.02.05.036
+laryngitis,11.01.13.001|22.07.03.001
+laryngospasm,22.04.02.002
+lethargy,08.01.01.008|17.02.04.003|19.04.04.004
+leukocytosis,01.02.01.002
+leukoderma,23.05.02.001
+leukopenia,01.02.02.001
+libido decreased,19.08.03.001|21.03.02.005
+libido disorder,19.08.03.004|21.03.02.006
+libido increased,19.08.03.002|21.03.02.007
+lichenoid keratosis,23.01.01.004
+ligament sprain,12.01.07.008|15.07.02.004
+lipase increased,13.05.01.003
+lipodystrophy acquired,14.08.04.008|23.07.01.003
+liver disorder,09.01.08.001
+liver function test abnormal,13.03.01.013
+liver injury,09.01.07.022|12.01.02.003
+local swelling,08.01.03.013
+loss of consciousness,17.02.04.004
+loss of libido,19.08.03.003
+lower respiratory tract infection,11.01.09.002|22.07.01.002
+lung disorder,22.02.07.001
+lung infection,11.01.09.008|22.07.01.008
+lung infiltration,22.01.02.004
+lymphadenopathy,01.09.01.002
+lymphocyte count decreased,13.01.06.006
+lymphocytosis,01.02.01.003
+lymphoedema,01.09.01.006|24.09.01.001
+lymphoma,01.12.01.001|16.20.01.001
+lymphopenia,01.02.02.002
+major depression,19.15.01.003
+malaise,08.01.01.003
+malignant melanoma,16.03.01.001|23.08.01.001
+malnutrition,14.03.02.004
+mania,19.16.02.002
+mastitis,11.01.02.001|21.05.03.002
+mediastinal disorder,22.09.03.001
+melaena,07.12.02.004|24.07.02.013
+melanosis,23.05.01.004
+memory impairment,17.03.02.003|19.20.01.003
+meningitis,11.01.03.001|17.06.03.001
+menopausal symptoms,21.02.02.002
+menopause,26.03.01.001
+menorrhagia,21.01.03.002
+menstrual disorder,21.01.01.004
+menstruation irregular,05.05.01.008|21.01.01.005
+mental disability,26.01.01.001
+mental disorder,19.07.01.002
+metabolic acidosis,14.01.01.003
+metrorrhagia,21.01.01.006
+micturition disorder,20.02.02.005
+micturition urgency,20.02.02.006
+migraine,17.14.02.001|24.03.05.003
+miosis,06.05.03.003|17.02.11.002
+monocytosis,01.02.01.004
+mood swings,19.04.03.001
+motion sickness,04.04.01.001|17.02.12.001
+mouth ulceration,07.05.06.004
+movement disorder,17.01.02.010
+mucosal inflammation,08.01.06.002
+mucous membrane disorder,08.01.06.004
+multiple fractures,12.04.02.009|15.08.02.005
+muscle atrophy,15.05.03.003|17.05.03.004
+muscle contractions involuntary,15.05.03.008|17.05.03.001
+muscle relaxant therapy,25.16.01.001
+muscle rigidity,15.05.04.001|17.05.02.005
+muscle spasms,15.05.03.004
+muscle tightness,15.05.03.007
+muscle twitching,15.05.03.005
+muscular weakness,15.05.06.001|17.05.03.005
+musculoskeletal chest pain,15.03.04.012|22.09.01.001
+musculoskeletal discomfort,15.03.04.001
+musculoskeletal pain,15.03.04.007
+musculoskeletal stiffness,15.03.01.005
+myalgia,15.05.02.001
+mydriasis,06.05.03.004|17.02.11.003
+myelitis,11.01.03.007|17.06.02.001
+myocardial infarction,02.02.02.007|24.04.04.009
+myocardial ischaemia,02.02.02.008|24.04.04.010
+myocarditis,02.04.03.001
+myoclonus,17.02.05.008
+myopathy,15.05.05.001
+myositis,15.05.01.001
+nail disorder,23.02.05.002
+nasal congestion,22.04.04.001
+nasal discomfort,22.02.05.020
+nasal dryness,22.04.03.002
+nasopharyngitis,11.01.13.002|22.07.03.002
+nausea,07.01.07.001
+neck pain,15.03.04.009
+neoplasm,16.16.02.001
+neoplasm malignant,16.16.01.001
+nephritis,20.05.02.001
+nephrolithiasis,20.04.01.002
+nephropathy,20.05.03.001
+nephropathy toxic,12.03.01.010|20.05.03.002
+nephrotic syndrome,20.05.01.002
+nervous system disorder,17.02.10.001
+nervousness,19.06.02.003
+neuralgia,17.02.07.005
+neuritis,17.09.03.001
+neuroleptic malignant syndrome,08.05.01.005|12.03.01.003|15.05.04.015|17.05.02.003
+neuropathy peripheral,17.09.03.003
+neurosis,19.06.01.001
+neurotoxicity,12.03.01.011|17.02.10.002
+neutropenia,01.02.03.004
+neutropenic sepsis,01.02.03.007|11.01.11.006
+neutrophil count decreased,13.01.06.010
+night blindness,06.02.02.003|14.12.03.001
+night sweats,08.01.03.031|23.02.03.006
+nightmare,19.02.03.003
+nocturia,20.02.03.001
+nodal arrhythmia,02.03.02.005
+nodule,08.03.05.002
+non-cardiac chest pain,08.01.08.006|22.02.08.007
+non-hodgkin's lymphoma,01.17.01.001|16.35.01.001
+nuchal rigidity,15.05.04.005|17.05.02.006
+nystagmus,06.05.02.006|17.02.02.006
+ocular discomfort,06.08.03.008
+ocular hyperaemia,06.04.05.004
+oculogyric crisis,06.05.02.002|17.01.03.002
+odynophagia,07.05.03.001
+oedema,08.01.07.006|14.05.06.010
+oedema peripheral,02.05.04.007|08.01.07.007|14.05.06.011
+oesophageal spasm,07.02.04.004
+oesophageal stenosis,07.13.02.001
+oesophageal ulcer,07.04.05.002
+oesophagitis,07.08.05.001
+oliguria,20.01.03.004
+onychomycosis,11.03.05.007|23.09.02.007
+opportunistic infection,11.01.08.007
+optic atrophy,06.09.02.001
+optic neuritis,06.04.08.002|10.04.10.002|17.04.05.001
+oral candidiasis,07.05.07.001|11.03.03.004
+oral herpes,07.05.07.002|11.05.02.005
+oral pain,07.05.03.002
+orchitis noninfective,21.09.02.003
+orgasm abnormal,19.08.01.004|21.03.02.013
+oropharyngeal discomfort,07.05.05.008|22.02.05.027
+oropharyngeal pain,07.05.05.004|22.02.05.022
+orthostatic hypotension,17.05.01.020|24.06.03.004
+osteoarthritis,15.01.04.001
+osteomyelitis,11.01.01.001|15.02.05.001
+osteonecrosis,15.02.04.007|24.04.05.004
+osteoporosis,14.04.04.002|15.02.03.002
+otitis externa,04.01.02.001|11.01.05.003
+otitis media,04.05.01.001|11.01.05.004
+ototoxicity,04.03.01.004|12.03.01.012
+ovarian cyst,16.04.03.001|21.11.01.002
+ovarian disorder,21.11.02.004
+pain,08.01.08.004
+pain in extremity,15.03.04.010
+pain in jaw,15.02.01.003
+pain of skin,23.03.03.003
+pallor,08.01.03.032|23.03.03.031|24.03.04.001
+palpitations,02.01.02.003
+pancreatitis,07.18.01.001
+pancreatitis acute,07.18.01.002
+pancytopenia,01.03.03.003
+panic attack,19.06.04.001
+panic reaction,19.06.04.003
+panophthalmitis,06.04.05.005
+papilloedema,06.09.02.002|17.07.02.004|24.03.07.001
+paraesthesia,17.02.06.005
+paraesthesia oral,07.05.03.003|17.02.06.008
+paralysis,17.01.04.004
+paranoia,19.05.01.005
+paresis,17.01.04.008
+parkinsonism,17.01.05.003
+parosmia,17.04.04.002|22.04.03.007
+pelvic pain,07.01.06.012|20.02.03.007|21.10.01.001
+penis disorder,21.12.01.001
+peptic ulcer,07.04.07.001
+pericardial effusion,02.06.01.002
+pericarditis,02.06.02.001
+perineal pain,21.10.01.003
+periodontitis,07.09.01.002|11.01.04.012
+periorbital oedema,06.08.03.017|10.01.05.010|23.04.01.002
+peripheral coldness,08.01.09.010|24.04.03.006
+peripheral ischaemia,24.04.03.002
+peripheral motor neuropathy,17.09.03.004
+peripheral sensory neuropathy,17.09.03.005
+peripheral vascular disorder,24.03.01.003
+peritonitis,07.19.05.004|11.01.07.007
+personality disorder,19.05.02.002
+petechiae,01.01.03.002|23.06.01.003|24.07.06.004
+pharyngeal oedema,10.01.05.016|22.04.05.003|23.04.01.016
+pharyngitis,07.05.07.004|11.01.13.003|22.07.03.004
+pharyngitis streptococcal,11.02.06.002|22.07.04.001
+phlebitis,12.02.01.002|24.05.03.001
+photophobia,06.01.01.004|17.17.02.006
+photopsia,06.02.06.004|17.17.01.006
+photosensitivity reaction,23.03.09.003
+pigmentation disorder,23.05.03.001
+plasma cell myeloma,01.14.02.004|16.23.02.004
+plasmacytoma,01.14.02.002|16.23.02.002
+platelet count decreased,13.01.04.001
+pleural effusion,22.05.02.002
+pleurisy,22.05.01.001
+pleuritic pain,22.02.04.008
+pneumonia,11.01.09.003|22.07.01.003
+pneumonia aspiration,22.01.01.005
+pneumothorax,22.05.02.003
+pollakiuria,20.02.02.007
+polycythaemia,01.07.01.001
+polydipsia,05.03.03.002|14.05.02.001
+polyneuropathy,17.09.03.012
+polyuria,20.02.03.002
+post procedural haemorrhage,12.02.05.004|24.07.01.014
+premenstrual syndrome,19.04.02.009|21.01.01.007
+presyncope,02.01.02.007|17.02.05.009|24.06.02.010
+priapism,21.03.01.005
+procedural pain,08.01.08.009|12.02.05.007
+proctalgia,07.03.02.001
+proctitis,07.08.04.001
+productive cough,22.02.03.005
+prostate cancer,16.25.01.001|21.04.02.002
+prostatic disorder,21.04.01.001
+prostatitis,21.09.01.001
+protein total decreased,13.09.01.004
+protein urine present,13.13.02.006
+proteinuria,20.02.01.011
+prothrombin level decreased,13.01.02.010
+prothrombin level increased,13.01.02.011
+prurigo,23.03.04.017
+pruritus,23.03.12.001
+pruritus generalised,23.03.12.003
+pruritus genital,21.10.01.002|23.03.12.008
+pseudolymphoma,01.09.01.016
+pseudomembranous colitis,07.19.01.003|11.02.02.002
+psoriasis,10.02.01.036|23.03.14.002
+psychomotor retardation,19.15.02.002
+psychotic disorder,19.03.01.002
+pulmonary congestion,02.05.02.002|22.01.03.002|24.03.08.001
+pulmonary embolism,22.06.02.001|24.01.06.001
+pulmonary fibrosis,22.01.02.006
+pulmonary function test decreased,13.19.01.001
+pulmonary hypertension,22.06.01.001|24.08.03.002
+pulmonary oedema,02.05.02.003|22.01.03.003
+punctate keratitis,06.04.02.003
+pupils unequal,06.05.03.005|17.02.11.005
+purpura,01.01.04.003|23.06.01.004|24.07.06.005
+pyelonephritis,11.01.14.002|20.01.09.001
+pyuria,11.01.08.043|20.02.01.012
+rales,22.02.04.004
+rash,23.03.13.001
+rash erythematous,23.03.06.003
+rash generalised,23.03.13.002
+rash macular,23.03.13.003
+rash maculo-papular,23.03.13.004
+rash papular,23.03.13.017
+rash pustular,11.01.12.002|23.03.10.003
+rectal haemorrhage,07.12.03.001|24.07.02.018
+rectal tenesmus,07.03.03.001|15.05.03.011
+regurgitation,07.01.07.004
+renal failure,20.01.03.005
+renal impairment,20.01.03.010
+renal pain,20.02.03.003
+renal tubular necrosis,20.01.07.003
+respiration abnormal,22.02.08.011
+respiratory depression,17.02.05.047|22.02.01.010
+respiratory disorder,22.02.07.002
+respiratory distress,22.02.01.012
+respiratory failure,14.01.04.003|22.02.06.002
+respiratory tract congestion,22.02.07.003
+respiratory tract infection,11.01.08.017|22.07.07.001
+restless legs syndrome,15.05.03.012|17.02.07.008
+retching,07.01.07.002
+retinal degeneration,06.09.03.002
+retinal detachment,06.09.03.003|12.01.04.004
+retinal disorder,06.08.03.005
+retinal haemorrhage,06.10.01.001|24.07.05.003
+retroperitoneal haemorrhage,07.07.02.002|24.07.01.017
+rhabdomyolysis,15.05.05.002
+rheumatoid arthritis,10.04.06.001|15.01.03.001
+rhinitis,11.01.13.004|22.07.03.006
+rhinitis allergic,10.01.04.003|22.04.04.003
+rhinorrhoea,22.02.05.010
+rhonchi,22.02.04.005
+road traffic accident,12.01.08.006
+rosacea,23.02.08.001
+salivary gland enlargement,07.06.03.002
+salivary hypersecretion,07.06.01.009
+salpingitis,11.01.10.001|21.14.03.001
+scab,23.03.03.004
+schizophreniform disorder,19.03.02.001
+sciatica,15.10.01.001|17.10.03.001
+scleritis,06.04.07.002|10.02.01.025
+seasonal allergy,06.04.01.013|10.01.04.001|22.04.04.008
+seborrhoeic dermatitis,23.03.04.018
+seborrhoeic keratosis,16.26.01.008|23.10.01.008
+sensation of foreign body,08.01.09.002
+sensory disturbance,17.02.07.006
+sensory loss,17.02.07.007
+sepsis,11.01.11.003
+septic shock,11.01.11.004|24.06.02.011
+serotonin syndrome,12.03.01.041|15.05.04.016|17.05.02.004
+serum sickness,10.01.03.004|12.02.08.004
+sexual dysfunction,19.08.05.002|21.03.02.003
+shock,24.06.02.002
+sialoadenitis,07.06.04.002|11.01.04.002
+sinus bradycardia,02.03.03.009
+sinus congestion,22.04.06.001
+sinus headache,17.14.01.002|22.02.05.023
+sinus tachycardia,02.03.03.010
+sinusitis,11.01.13.005|22.07.03.007
+skin atrophy,23.01.05.001
+skin burning sensation,17.02.06.009|23.03.03.021
+skin cancer,16.03.02.002|23.08.02.002
+skin discolouration,23.03.03.005
+skin disorder,23.03.03.007
+skin exfoliation,23.03.07.003
+skin hyperpigmentation,23.05.01.003
+skin hypertrophy,23.01.04.002
+skin infection,11.01.12.003|23.09.04.002
+skin irritation,23.03.04.009
+skin lesion,23.03.03.010
+skin mass,23.07.04.014
+skin odour abnormal,23.03.03.012
+skin papilloma,11.05.07.001|16.26.01.002|23.10.01.002
+skin striae,23.01.05.002
+skin ulcer,23.07.03.003|24.04.03.007
+sleep apnoea syndrome,17.15.05.001|19.02.05.002|22.02.01.013
+sleep disorder,19.02.04.001
+sluggishness,08.01.01.004
+sneezing,22.02.05.011
+snoring,22.02.05.012
+somnambulism,17.15.02.004|19.02.03.006
+somnolence,17.02.04.006|19.02.05.003
+speech disorder,17.02.08.003|19.19.02.002|22.02.05.034
+splenomegaly,01.09.02.001
+sputum increased,22.02.03.007
+staphylococcal infection,11.02.05.002
+status epilepticus,17.12.03.005
+stevens-johnson syndrome,10.01.03.020|11.07.01.005|12.03.01.014|23.03.01.007
+sticky skin,23.03.03.019
+stomatitis,07.05.06.005
+strangury,20.02.02.017
+stridor,22.04.02.003
+stupor,17.02.04.007|19.02.05.004
+subarachnoid haemorrhage,12.01.10.011|17.08.01.010|24.07.04.004
+subdural haematoma,12.01.10.003|17.08.05.002|24.07.04.005
+sudden death,02.03.04.013|08.04.01.003
+suicidal ideation,19.12.01.003
+suicide attempt,19.12.01.004
+sunburn,12.05.02.001|23.03.09.007
+supraventricular extrasystoles,02.03.03.011
+supraventricular tachycardia,02.03.03.012
+swelling,08.01.03.015
+swelling face,10.01.05.018|23.04.01.018
+syncope,02.01.02.008|17.02.04.008|24.06.02.012
+systemic lupus erythematosus,10.04.03.004|15.06.02.003|23.03.02.006
+tachycardia,02.03.02.007
+tachypnoea,22.02.01.014
+tardive dyskinesia,17.01.02.012
+telangiectasia,23.06.03.001|24.03.03.003
+temperature intolerance,08.01.09.022
+tenderness,08.01.08.005
+tendinous contracture,15.07.01.001
+tendon disorder,15.07.01.002
+tendonitis,12.01.07.007|15.07.01.003
+tenosynovitis,15.07.01.004
+tension,19.06.02.005
+tension headache,17.14.01.004
+testicular pain,21.13.01.005
+tetany,05.04.02.003|14.04.01.005|15.05.03.013
+therapeutic response unexpected,08.06.01.001
+thinking abnormal,17.02.05.023|19.10.03.001
+thirst,08.01.09.021|14.03.02.007
+throat irritation,07.05.03.004|22.02.05.013
+throat tightness,19.01.02.005|22.02.05.015
+thrombocytopenia,01.08.01.002
+thrombocytosis,01.08.02.001
+thrombophlebitis,24.01.02.001
+thrombosis,24.01.01.006
+thrombotic thrombocytopenic purpura,01.08.01.005|23.06.01.011|24.07.06.014
+thyroid disorder,05.02.01.002
+thyroid neoplasm,05.02.05.002|16.24.01.002
+thyroiditis,05.02.04.001
+tinnitus,04.04.01.002|17.04.07.004
+tongue discolouration,07.14.02.006
+tongue disorder,07.14.01.002
+tongue oedema,07.14.02.007|10.01.05.008|23.04.01.009
+tongue ulceration,07.14.01.003
+tonsillitis,11.01.13.006|22.07.03.008
+tooth abscess,07.09.01.003|11.01.04.003
+tooth disorder,07.09.05.001
+tooth infection,07.09.01.004|11.01.04.004
+toothache,07.09.06.001
+torsade de pointes,02.03.04.005
+torticollis,15.05.04.003|17.01.03.003
+toxic epidermal necrolysis,10.01.01.006|11.07.01.006|12.03.01.015|23.03.01.008
+toxicity to various agents,12.03.01.046
+tracheitis,11.01.13.007|22.07.03.009
+tracheobronchitis,11.01.13.008|22.07.03.010
+transaminases increased,13.03.01.015
+transient ischaemic attack,17.08.04.001|24.04.06.005
+tremor,17.01.06.002
+trismus,15.05.04.004|17.01.03.004
+tubulointerstitial nephritis,20.05.02.002
+tumour lysis syndrome,14.05.01.004|16.32.03.002
+ulcer,08.03.06.001
+ulcerative keratitis,06.04.02.004|10.02.01.021
+unintended pregnancy,18.08.01.001
+upper respiratory tract infection,11.01.13.009|22.07.03.011
+upper-airway cough syndrome,22.02.05.030
+urethral disorder,20.07.01.002
+urethritis,11.01.14.008|20.07.02.001
+urethritis noninfective,20.07.02.002
+urinary hesitation,20.02.02.009
+urinary incontinence,17.05.01.008|20.02.02.010
+urinary retention,20.02.02.011
+urinary tract disorder,20.08.01.001
+urinary tract infection,11.01.14.004|20.08.02.001
+urine abnormality,20.02.01.013
+urine analysis abnormal,13.13.02.008
+urine output increased,13.13.03.002
+urticaria,10.01.06.001|23.04.02.001
+uterine disorder,21.07.01.006
+uterine haemorrhage,21.07.01.005|24.07.03.004
+uterine leiomyoma,16.04.02.001|21.07.02.004
+uterine spasm,21.07.03.002
+uveitis,06.04.03.003|10.02.01.023
+vaginal discharge,21.08.02.002
+vaginal haemorrhage,21.08.01.001|24.07.03.005
+vaginal infection,11.01.10.002|21.14.02.002
+varicose vein,24.10.04.001
+vascular headache,17.14.01.005|24.03.05.007
+vascular purpura,01.01.04.007|23.06.01.008|24.07.06.011
+vasculitis,10.02.02.006|24.05.02.001
+vasodilation procedure,25.03.01.001
+vasospasm,24.04.02.002
+venous thrombosis,24.01.01.008
+ventricular arrhythmia,02.03.04.006
+ventricular extrasystoles,02.03.04.007
+ventricular fibrillation,02.03.04.008
+ventricular tachycardia,02.03.04.010
+vertigo,04.04.01.003|17.02.12.002
+vestibular disorder,04.04.02.001|17.02.02.008
+viral diarrhoea,07.19.02.008|11.05.04.012
+viral infection,11.05.04.001
+viral upper respiratory tract infection,11.05.04.007|22.07.02.004
+vision blurred,06.02.06.007|17.17.01.010
+visual acuity reduced,06.02.03.001|17.17.01.011
+visual impairment,06.02.06.008
+vomiting,07.01.07.003
+vulvovaginal candidiasis,11.03.03.005|21.14.02.003
+vulvovaginal dryness,21.08.02.003
+vulvovaginal mycotic infection,11.03.05.004|21.14.02.004
+vulvovaginal pruritus,21.08.02.004|23.03.12.009
+vulvovaginitis,11.01.10.003|21.14.02.005
+weight decreased,13.15.01.005
+weight increased,13.15.01.006
+wheezing,22.03.01.009
+white blood cell count decreased,13.01.06.012
+white blood cell count increased,13.01.06.013
+withdrawal syndrome,08.06.02.012|19.07.02.005
+wound infection,11.01.08.010|12.01.08.012
+wound secretion,08.01.03.035|12.01.08.007
+xerophthalmia,06.06.03.008|14.12.03.002
+yawning,22.02.05.017
